@@ -9,7 +9,7 @@ API_TOKEN = "8947560009:AAGdv0meVDjPV_D1N0bw90bGDrTz3uu2buU"
 CHANNEL_ID = "@SamarqandImkoniyat"
 
 # Интервал между постами в секундах (4 часа = 14400 сек. Для теста можно поставить 60 сек)
-POST_INTERVAL_SECONDS = 14400
+POST_INTERVAL_SECONDS = 7200
 
 bot = Bot(token=API_TOKEN)
 
